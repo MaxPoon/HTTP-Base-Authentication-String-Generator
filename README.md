@@ -9,7 +9,11 @@ To generate the string:
 HTTP_Base_Auth2.HTTP_Basic_string (user_id, secret, t0, timestep, password_digits, alg)
 ```
 Default value:
+
 t0 = 0
+
 timestep = 30
+
 password_digits = 10
+
 alg = hashlib.sha1
