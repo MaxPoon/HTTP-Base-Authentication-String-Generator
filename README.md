@@ -1,8 +1,8 @@
-# HTTP-Base-Authentication-String-Generator
-Module for python 2 and python 3 to generate the hashed string of user id and time based one-time password for HTTP base authentication.
+# HTTP-Basic-Authentication-String-Generator
+Module for python 2 and python 3 to generate the hashed string of user id and time based one-time password for HTTP basic authentication.
 
 ## API
-Import module HTTP_Base_Auth2 for python 2.x and HTTP_Base_Auth3 for python 3.x.
+Import module HTTP_Basic_Auth2 for python 2.x and HTTP_Base_Auth3 for python 3.x.
 
 ### To generate the string:
 ```
